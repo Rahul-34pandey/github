@@ -9,7 +9,7 @@ Coding Standards
 This project adheres to the PEP 8 Python Coding Style Guidelines, Django naming conventions, and other standards. See STYLE.md for details.
 
 Programming Languages
-Scripts are written for "bash" shell. Python code is written at the Python 3.6 level.
+Scripts are written for "bash" shell. Python code is written at the Python 3.6 level. 
 
 Managing Dependencies
 Install or uninstall all dependencies using these commands while you are in the pipenv shell:
